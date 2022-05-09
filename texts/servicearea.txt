@@ -1,0 +1,12 @@
+AK
+AZ
+CA
+CO
+ID
+MT
+NV
+NM
+OR
+UT
+WA
+WY
